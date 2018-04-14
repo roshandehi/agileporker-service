@@ -1,0 +1,10 @@
+#Message Broker Details
+## RabbitMQ Connection Details
+messagebroker:
+    host: localhost
+    port: 61613
+    username: guest
+    password: guest 
+#Websocket - Allowed Origins
+websocket:
+    origins: http://localhost:4200, http://localhost:4500
